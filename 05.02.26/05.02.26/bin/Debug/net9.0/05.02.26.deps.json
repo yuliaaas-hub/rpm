@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "05.02.26/1.0.0": {
+        "dependencies": {
+          "OOP_Fundamentals_Library": "1.0.0"
+        },
+        "runtime": {
+          "05.02.26.dll": {}
+        }
+      },
+      "OOP_Fundamentals_Library/1.0.0": {
+        "runtime": {
+          "OOP_Fundamentals_Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.02.26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP_Fundamentals_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

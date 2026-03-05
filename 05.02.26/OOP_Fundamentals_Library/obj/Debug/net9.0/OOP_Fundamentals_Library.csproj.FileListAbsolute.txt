@@ -1,0 +1,11 @@
+E:\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.deps.json
+E:\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.dll
+E:\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.pdb
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfoInputs.cache
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfo.cs
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.csproj.CoreCompileInputs.cache
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.dll
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\refint\OOP_Fundamentals_Library.dll
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.pdb
+E:\OOP_Fundamentals_Library\obj\Debug\net9.0\ref\OOP_Fundamentals_Library.dll
