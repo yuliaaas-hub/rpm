@@ -1,0 +1,32 @@
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.exe.config
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.exe
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.pdb
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.AssemblyReference.cache
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\MainWindow.g.cs
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\App.g.cs
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm_MarkupCompile.cache
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm_MarkupCompile.lref
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\MainWindow.baml
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.g.resources
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3._2_rpm.Properties.Resources.resources
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.GenerateResource.cache
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.CoreCompileInputs.cache
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.exe
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.pdb
+G:\разработка програмных модулей 3 курс\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.exe.config
+E:\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.exe.config
+E:\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.exe
+E:\task_3.2_rpm\task_3.2_rpm\bin\Debug\task_3.2_rpm.pdb
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.AssemblyReference.cache
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.exe.config
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\MainWindow.g.cs
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\App.g.cs
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm_MarkupCompile.cache
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm_MarkupCompile.lref
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\MainWindow.baml
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.g.resources
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3._2_rpm.Properties.Resources.resources
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.GenerateResource.cache
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.csproj.CoreCompileInputs.cache
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.exe
+E:\task_3.2_rpm\task_3.2_rpm\obj\Debug\task_3.2_rpm.pdb
