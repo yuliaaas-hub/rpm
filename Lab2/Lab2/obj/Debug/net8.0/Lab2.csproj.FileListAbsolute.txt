@@ -1,0 +1,28 @@
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\igagi\OneDrive\Рабочий стол\РПМ\Lab2\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+E:\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+E:\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+E:\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+E:\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+E:\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+E:\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+E:\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+E:\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
