@@ -1,0 +1,14 @@
+D:\rpm\lab_5_rpm\lab_5_rpm\bin\Debug\net8.0\lab_5_rpm.exe
+D:\rpm\lab_5_rpm\lab_5_rpm\bin\Debug\net8.0\lab_5_rpm.deps.json
+D:\rpm\lab_5_rpm\lab_5_rpm\bin\Debug\net8.0\lab_5_rpm.runtimeconfig.json
+D:\rpm\lab_5_rpm\lab_5_rpm\bin\Debug\net8.0\lab_5_rpm.dll
+D:\rpm\lab_5_rpm\lab_5_rpm\bin\Debug\net8.0\lab_5_rpm.pdb
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.GeneratedMSBuildEditorConfig.editorconfig
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.AssemblyInfoInputs.cache
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.AssemblyInfo.cs
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.csproj.CoreCompileInputs.cache
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.dll
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\refint\lab_5_rpm.dll
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.pdb
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\lab_5_rpm.genruntimeconfig.cache
+D:\rpm\lab_5_rpm\lab_5_rpm\obj\Debug\net8.0\ref\lab_5_rpm.dll
