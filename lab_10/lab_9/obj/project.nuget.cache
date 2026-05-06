@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vk3Ix0oM3fo=",
+  "success": true,
+  "projectFilePath": "D:\\rpm\\lab_10\\lab_9\\lab_9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ysivo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Ysivo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
