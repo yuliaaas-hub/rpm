@@ -1,0 +1,1 @@
+[2026-05-13 18:37:29] file  Exceeding the threshold: Metric: CPU_Usage, Value: 77 (Threshold: 70)
